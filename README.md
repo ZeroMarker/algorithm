@@ -12,3 +12,10 @@
 
 [algs4](https://github.com/kevin-wayne/algs4)
 
+[数据结构与算法 系列教程（笔记）](https://zq99299.github.io/dsalg-tutorial/)
+
+[吴师兄学算法](https://www.cxyxiaowu.com/)
+
+[清风明月的笔记](https://mingnote.com/)
+
+
