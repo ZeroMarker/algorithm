@@ -6,6 +6,8 @@ bubble.o: bubble.c
 print.o: print.c
 	gcc -c print.c
 run:
-	./a.exe
+	./a.out
 clean:
-	rm *.exe *.o
+	rm *.out *.o
+
+

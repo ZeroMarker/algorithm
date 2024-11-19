@@ -2,6 +2,6 @@ all: src run clean
 src:
 	g++ dijkstra.cc
 run:
-	./a.exe
+	./a.out
 clean:
-	rm *.exe
+	rm *.out

@@ -10,7 +10,7 @@ int main(void) {
     // int arr[M] = {1};
     int arr[] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
 
-    printf("sizeof(arr) = %d\n", sizeof(arr));
+    printf("sizeof(arr) = %ld\n", sizeof(arr));
     printf("%p\n", arr);
 
     arr[3] = 10;
